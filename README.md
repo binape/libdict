@@ -1,2 +1,2 @@
 # libdict
-hashtable implementaion extract from redis
+hashtable from redis
